@@ -1,0 +1,41 @@
+
+/* Color Logo : #d00f0f */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  box-sizing: border-box;
+  color: white;
+  background-color: black;
+  box-shadow: .5rem .5rem 6rem 2.5rem rgba(0, 0, 0, .5) inset;
+
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+  display: none;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  ul, li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1, h2, h3 ,h4 {
+    margin: 0;
+    padding: 0;
+  }
