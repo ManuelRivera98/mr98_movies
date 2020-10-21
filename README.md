@@ -18,5 +18,4 @@ MIT
 
 ## Sitio
 
- https://mr-movies.now.sh
-
+https://moviesmr.vercel.app
